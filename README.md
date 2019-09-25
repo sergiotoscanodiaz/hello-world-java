@@ -13,6 +13,8 @@ public class HelloWorld { // Clase principal
 }
 ```
 
+Notice that `System.out.println("HellorWorld!")` shows the String `HelloWorld!`
+
 ## Compile program
 
 To compile the "Hello World" program type the following:
