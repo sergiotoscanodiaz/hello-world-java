@@ -22,3 +22,10 @@ To compile the "Hello World" program type the following:
 ```console
 javac HelloWorld.java
 ```
+
+##Execute the program
+
+```console
+java HelloWorld
+```
+
